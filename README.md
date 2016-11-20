@@ -25,7 +25,6 @@
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 [微分等式](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)| MIT | [Elementary Differential Equations with Boundary Value Problems](https://www.amazon.com/exec/obidos/ASIN/0136006132/ref=nosim/mitopencourse-20) | [链接](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980)
 数值方法介绍| MIT | [Numerical Linear Algebra](https://www.amazon.com/exec/obidos/ASIN/0898713617/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/index.htm)
-
 [计算机图形学](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)| eDX | 暂无 | [链接](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1#!)
 研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 [编程范例](https://see.stanford.edu/Course/CS107) | Stanford | [Essential C++](https://www.amazon.com/Essential-C-Stanley-B-Lippman/dp/0201485184) | [链接](https://see.stanford.edu/Course/CS107)
