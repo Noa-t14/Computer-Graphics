@@ -26,7 +26,7 @@
 [微分等式](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)| MIT | [Elementary Differential Equations with Boundary Value Problems](https://www.amazon.com/exec/obidos/ASIN/0136006132/ref=nosim/mitopencourse-20) | [链接](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980)
 数值方法介绍| MIT | [Numerical Linear Algebra](https://www.amazon.com/exec/obidos/ASIN/0898713617/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/index.htm)
 [计算机图形学](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)| eDX | 暂无 | [链接](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1#!)
-研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
+计算机图形学进阶| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 [编程范例](https://see.stanford.edu/Course/CS107) | Stanford | [Essential C++](https://www.amazon.com/Essential-C-Stanley-B-Lippman/dp/0201485184) | [链接](https://see.stanford.edu/Course/CS107)
 [openGL学习](https://www.quora.com/How-do-I-learn-the-basics-of-computer-graphics-and-OpenGL-programming) | 暂无 | 暂无 |暂无
 
@@ -63,7 +63,7 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
+计算机图形学进阶| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 
 ##<h2 id="booklists">推荐书籍列表</h2>
    以下推荐的书籍都是公认的计算机图形学领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
