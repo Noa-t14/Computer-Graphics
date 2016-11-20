@@ -25,7 +25,7 @@
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 [计算机图形学](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)| eDX | 暂无 | [链接](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1#!)
 研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
-Matlab程序语言设计| 暂无 | 暂无 | 暂无
+C++程序设计| 暂无 | 暂无 | 暂无
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 ###<h3 id="math_basic">数学基础初级</h3>
@@ -37,13 +37,11 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 
 ###<h3 id="programming_basic">程序语言能力</h3>
-考虑到机器学习的核心是里面的数学原理和算法思想，程序语言目前主要是帮助大家较好的完成课后作业以及实现自己的一些idea，此处我们仅仅给出推荐的参考学习链接，大家掌握一些常用的模块即可，即完成参考学习链接部分的内容即可，推荐书籍比较经典，但不做要求。
+   下面是计算机图形学涉及的核心程序设计语言，要求能够较好的掌握，这样对后续课程的习题与学习能带来较大的帮助。
 
 课程 | 参考学习链接 | 推荐书籍
 :-- | :--: | :--:
-Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial/) | 暂无  
-Matlab程序语言设计| 暂无 | 暂无 
-R程序语言设计| 暂无 | 暂无 
+C++程序设计| 暂无 | 暂无 | 暂无
 
 
 ###<h3 id="computer_graphics_basic">计算机图形学课程初级</h3>
@@ -62,28 +60,17 @@ R程序语言设计| 暂无 | 暂无
 
 
 ###<h3 id="computer_graphics_median">计算机图形学课程中级</h3>
-   此处NTU和Caltech两个大学的课程是由《Learning from Data》一书的两个不同的作者讲的，所以仅仅只需选择一个完成即可，注意：如果选择完成NTU的机器学习课程，则**NTU的“机器学习基石”和“机器学习技法”需同时完成。**。
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
-[机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
-[机器学习](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
-[机器学习](https://www.youtube.com/watch?v=mbyG85GZ0PI&index=1&list=PLD63A284B7615313A)| Caltech | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](http://work.caltech.edu/lectures.html)
-
+研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 
 ##<h2 id="booklists">推荐书籍列表</h2>
    以下推荐的书籍都是公认的机器学习领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
 
 书名 | 难度
 :-- | :--: 
-[统计学习方法](https://www.amazon.cn/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95-%E6%9D%8E%E8%88%AA/dp/B007TSFMTA) | 一般
- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | 一般
-[Machine Learning](https://www.amazon.com/gp/product/0071154671?ie=UTF8&tag=jefork-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0071154671) | 一般
-[Learning from Data](https://www.amazon.com/gp/product/1600490069) | 一般，[配套讲义](https://work.caltech.edu/telecourse.html)
-[Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯)
-[The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
-[Understanding Machine Learning:From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | 较难
+[Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | 一般
 
 ##<h3 id="special_learning">计算机图形学专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
