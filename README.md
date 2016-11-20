@@ -28,6 +28,7 @@
 [计算机图形学](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)| eDX | 暂无 | [链接](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1#!)
 研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 [编程范例](https://see.stanford.edu/Course/CS107) | Stanford | [Essential C++](https://www.amazon.com/Essential-C-Stanley-B-Lippman/dp/0201485184) | [链接](https://see.stanford.edu/Course/CS107)
+[openGL学习](https://www.quora.com/How-do-I-learn-the-basics-of-computer-graphics-and-OpenGL-programming) | 暂无 | 暂无 |暂无
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 ###<h3 id="math_basic">数学基础初级</h3>
@@ -39,11 +40,12 @@
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 
 ###<h3 id="programming_basic">程序语言能力</h3>
-   下面是计算机图形学涉及的核心程序设计语言，要求能够较好的掌握，这样对后续课程的习题与学习能带来较大的帮助。
+   下面是计算机图形学涉及的核心程序设计语言，要求能够较好的掌握，这样对后续课程的习题与学习能带来较大的帮助，openGL部分给出的链接可以参考Harold Serrano的建议从begginer开始往下学习，如果希望更多的了解学习openGL可以在[计算机图形学专项领域学习](#special_learning)模块推荐的学习平台中结合自己兴趣爱好展开学习。
 
 课程 | 参考学习链接 | 推荐书籍
 :-- | :--: | :--:
 [编程范例](https://see.stanford.edu/Course/CS107) | Stanford | [Essential C++](https://www.amazon.com/Essential-C-Stanley-B-Lippman/dp/0201485184) | [链接](https://see.stanford.edu/Course/CS107)
+[openGL学习](https://www.quora.com/How-do-I-learn-the-basics-of-computer-graphics-and-OpenGL-programming) | 暂无 | 暂无 |暂无
 
 ###<h3 id="computer_graphics_basic">计算机图形学课程初级</h3>
 课程 | 机构 | 参考书 | Notes等其他资料
