@@ -23,9 +23,12 @@
 [线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+[微分等式](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)| MIT | [Elementary Differential Equations with Boundary Value Problems](https://www.amazon.com/exec/obidos/ASIN/0136006132/ref=nosim/mitopencourse-20) | [链接](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980)
+数值方法介绍| MIT | [Numerical Linear Algebra](https://www.amazon.com/exec/obidos/ASIN/0898713617/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/index.htm)
+
 [计算机图形学](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)| eDX | 暂无 | [链接](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1#!)
 研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
-C++程序设计| 暂无 | 暂无 | 暂无
+[编程范例](https://see.stanford.edu/Course/CS107) | Stanford | [Essential C++](https://www.amazon.com/Essential-C-Stanley-B-Lippman/dp/0201485184) | [链接](https://see.stanford.edu/Course/CS107)
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 ###<h3 id="math_basic">数学基础初级</h3>
@@ -41,23 +44,20 @@ C++程序设计| 暂无 | 暂无 | 暂无
 
 课程 | 参考学习链接 | 推荐书籍
 :-- | :--: | :--:
-C++程序设计| 暂无 | 暂无 | 暂无
-
+[编程范例](https://see.stanford.edu/Course/CS107) | Stanford | [Essential C++](https://www.amazon.com/Essential-C-Stanley-B-Lippman/dp/0201485184) | [链接](https://see.stanford.edu/Course/CS107)
 
 ###<h3 id="computer_graphics_basic">计算机图形学课程初级</h3>
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [计算机图形学](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)| eDX | 暂无 | [链接](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1#!)
-
+[]
 
 ###<h3 id="math_median">数学基础中级</h3>
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
-[凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
-[凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| Stanford | 暂无 |  [链接](http://stanford.edu/class/ee364b/)
-
+[微分等式](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)| MIT | [Elementary Differential Equations with Boundary Value Problems](https://www.amazon.com/exec/obidos/ASIN/0136006132/ref=nosim/mitopencourse-20) | [链接](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980)
+数值方法介绍| MIT | [Numerical Linear Algebra](https://www.amazon.com/exec/obidos/ASIN/0898713617/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/index.htm)
 
 ###<h3 id="computer_graphics_median">计算机图形学课程中级</h3>
 
