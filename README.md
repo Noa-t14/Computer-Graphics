@@ -65,15 +65,15 @@
 研究生计算机图形学| New York University | [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | [链接](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 
 ##<h2 id="booklists">推荐书籍列表</h2>
-   以下推荐的书籍都是公认的机器学习领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
+   以下推荐的书籍都是公认的计算机图形学领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
 
 书名 | 难度
 :-- | :--: 
 [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | 一般
 
 ##<h3 id="special_learning">计算机图形学专项领域学习</h3>
-如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
-- 其他(尚未完善)
+如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的计算机图形学基础了，可以较为顺利的进入自己感兴趣的某一专项领域进行较为深入研究，我们只能为您提供一些参考的分享平台，希望对您有帮助。
+- [学习平台](https://github.com/ericjang/awesome-graphics)
 
 
 
