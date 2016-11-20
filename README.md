@@ -49,7 +49,6 @@
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [计算机图形学](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)| eDX | 暂无 | [链接](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1#!)
-[]
 
 ###<h3 id="math_median">数学基础中级</h3>
 
