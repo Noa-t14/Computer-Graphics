@@ -43,7 +43,8 @@
    下面是计算机图形学涉及的核心程序设计语言，要求能够较好的掌握，这样对后续课程的习题与学习能带来较大的帮助，openGL部分给出的链接可以参考Harold Serrano的建议从begginer开始往下学习，如果希望更多的了解学习openGL可以在[计算机图形学专项领域学习](#special_learning)模块推荐的学习平台中结合自己兴趣爱好展开学习。
 
 课程 | 参考学习链接 | 推荐书籍
-:-- | :--: | :--:
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:
 [编程范例](https://see.stanford.edu/Course/CS107) | Stanford | [Essential C++](https://www.amazon.com/Essential-C-Stanley-B-Lippman/dp/0201485184) | [链接](https://see.stanford.edu/Course/CS107)
 [openGL学习](https://www.quora.com/How-do-I-learn-the-basics-of-computer-graphics-and-OpenGL-programming) | 暂无 | 暂无 |暂无
 
