@@ -73,9 +73,10 @@
 [Computer Graphics: Principles and Practice (3rd Edition)](https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528) | 一般
 
 ##<h3 id="special_learning">计算机图形学专项领域学习</h3>
-如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的计算机图形学基础了，可以较为顺利的进入自己感兴趣的某一专项领域进行较为深入研究，我们只能为您提供一些参考的分享平台，希望对您有帮助。
+如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的计算机图形学基础了，可以较为顺利的进入自己感兴趣的某一专项领域进行较为深入研究，我们只能为您提供一些参考的分享平台，希望对您有帮助,当然如果希望了解最新的计算机图形学的前沿内容，可以在论文专区查找您感兴趣的内容。
 - [学习平台1](https://github.com/ericjang/awesome-graphics)
 - [学习平台2](https://github.com/mattdesl/graphics-resources)
+- [论文专区](http://kesen.realtimerendering.com/)
 - 其他(希望大家推荐)
 
 
